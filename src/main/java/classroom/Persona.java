@@ -6,10 +6,10 @@ public class Persona {
     String nombre;
     static int totalPersonas; // = 0
     
-  static{ //Variable global
+  /*static{ //Variable global
         totalPersonas = 0;
         //cedula = 3;
-    }
+    }*/
     
     public Persona() {
     	this.nombre = "";
