@@ -15,7 +15,7 @@ public class Persona {
     	this.nombre = "";
     	cedula = 0;
     	totalPersonas++;
-    	
+   
     	//System.out.println(nombre+" con cc0 ="+cedula);
     }
     
